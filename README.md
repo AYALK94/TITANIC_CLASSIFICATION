@@ -3,30 +3,18 @@
 
 # 🚢 Titanic Classification 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ruban2205/titanic-classification.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ruban2205/titanic-classification/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ruban2205/titanic-classification.svg?style=for-the-badge
-[forks-url]: https://github.com/Ruban2205/titanic-classification/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/Ruban2205/titanic-classification.svg?style=for-the-badge
-[stars-url]: https://github.com/Ruban2205/titanic-classification/stargazers
+[stars-url]: https://github.com/AYALK94/TITANIC_CLASSIFICATION/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Ruban2205/titanic-classification.svg?style=for-the-badge
-[issues-url]: https://github.com/Ruban2205/titanic-classification/issues
-[license-shield]: https://img.shields.io/github/license/Ruban2205/titanic-classification.svg?style=for-the-badge
-[license-url]: https://github.com/Ruban2205/titanic-classification/blob/main/LICENSE
+[issues-url]: https://github.com/AYALK94/TITANIC_CLASSIFICATION/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ruban-gino-singh
-[twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
-[twitter-url]: https://x.com/Rubangino
+[linkedin-url]: https://www.linkedin.com/in/ayalkibet-abriham-4a8616259
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -40,12 +28,10 @@
   <p align="center">
     A prediction of a passenger's survival in the Titanic based on various features such as age, gender, class, and more. 
     <br />
-    <a href="https://github.com/Ruban2205/titanic-classification/blob/main/notebook/titanic_classifier_main.ipynb"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/AYALK94/TITANIC_CLASSIFICATION/blob/main/notebook/titanic_classifier_main.ipynb"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ruban2205/titanic-classification/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Ruban2205/titanic-classification/issues">Request Feature</a>
+    
   </p>
 </div>
 
@@ -116,19 +102,7 @@ The project follows a structured workflow:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Built With 🖥️
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Ruban2205)
-
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Ruban2205)
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Ruban2205)
-[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/Ruban2205)
-[![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Ruban2205)
-
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://github.com/Ruban2205)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!--Getting Started Section--> 
 ## Getting Started 🚀
@@ -191,9 +165,7 @@ Please ensure your contributions adhere to the coding style and guidelines used 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!--Licence-->
-## License 📄
 
-This repository is licensed under the [MIT LICENSE](/LICENSE). You are free to use, modify, and distribute the code and content within this repository for personal or commercial purposes. However, please provide attribution to the original repository by linking back to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,13 +185,8 @@ You may learn more about the principles of machine learning, the use of models, 
 
 For any questions or inquiries, please feel free to approach me through the following channels: 
 
-- Ruban [info@rubangino.in](https://mailto:info@rubangino.in/)
-
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rubanginosingh)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://rubangino.hashnode.dev/)
+- Name: Ayalkibet Abriham
+- Email: ayalkibetabriham94@gmail.com
 
 Feel free to report any issues or suggest improvements by creating an issue in the GitHub repository.
 
